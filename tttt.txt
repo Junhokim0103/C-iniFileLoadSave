@@ -1,0 +1,5 @@
+﻿[Property]
+mainWndSx=560
+mainWndSy=316
+mainWndDx=800
+mainWndDy=400
